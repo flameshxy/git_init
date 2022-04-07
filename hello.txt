@@ -1,3 +1,3 @@
-hello git 22 merge conflict hbhbhbhb
+hello git 22 merge conflict hbhb
 hello world 23
 hello baby nihaoya master test 
